@@ -6,4 +6,4 @@ aiops-github-service-2
      "Increased timeout settings",
             "Optimized query execution"
 Rolled back to previous stable version",
-            "Updated database schema
+            "Updated database schema.
